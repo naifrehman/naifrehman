@@ -5,6 +5,6 @@
 - Completing a IBM Cloud Cert
 - 🌱 I’m currently learning ... Currently docker to ship, and AWS / IBM Cloud
 
-- 📫 How to reach me: ... naifrehman12@gmail.com | https://www.linkedin.com/in/nrehman19/
+- # How to reach me: ... naifrehman12@gmail.com | https://www.linkedin.com/in/nrehman19/
 
 
