@@ -7,7 +7,7 @@
 - Interest in Fullstack/cloud/infra/ai
 - Currently learning more about EC2, S3,docker, and building/shipping with ai
 
-- # I’m currently working on ... 
+# I’m currently working on ... 
  ReadEase -  A fullstack application built with reactjs + nodejs/expressjs for backend along with Google's Clouds (GC) text-to-speech for those with dyslexia, helping them read with ease. 
 
  ## Skill stack
