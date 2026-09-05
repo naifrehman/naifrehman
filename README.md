@@ -8,7 +8,7 @@
 - Currently learning more about EC2, S3,docker, and building/shipping with ai
 
 # I’m currently working on ... 
- ReadEase -  A fullstack application built with reactjs + nodejs/expressjs for backend along with Google's Clouds (GC) text-to-speech for those with dyslexia, helping them read with ease. 
+ - ReadEase -  A fullstack application built with reactjs + nodejs/expressjs for backend along with Google's Clouds (GC) text-to-speech for those with dyslexia, helping them read with ease. 
  
  - Lecture Attendance Tracker - web application with reactjs frontend + firebase (node/expressjs) BaaS + firebase NoSQL database. Prof/teachers can create a classroom, where students can join with a qr-code. It tracks attendance of students throughtout the term, keeping track of missed classes.
 
