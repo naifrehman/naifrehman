@@ -10,8 +10,8 @@
 # I’m currently working on ... 
  - ReadEase -  A fullstack application built with reactjs + nodejs/expressjs for backend along with Google's Clouds (GC) text-to-speech for those with dyslexia, helping them read with ease. 
  
- - Sports Management Software Application. All in 1 platform for University's Athletic Department, specifically coaches and student athletes to manage their schedule, join teams, participate in events etc
-   building it with ReactJS/TypeScript Frontend, with C++ backend, postgresSQL DB
+ - Sports Management Software Application. All in 1 platform for University's Athletic Department, specifically coaches and student athletes to manage their schedule, join teams, participate in events etc. Hope to increase campus engagement by attending more varsity games and fun matches
+   building it with ReactJS/TypeScript Frontend, with C++'s Crow backend frramework, postgresSQL DB
 
  ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
