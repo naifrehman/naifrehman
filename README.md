@@ -4,7 +4,7 @@
 
 ## About Me
 - Engineering Student Queens '29
-- Interest in Fullstack/cloud/infra/ai
+- Interest in Fullstack/cloud/and low-level systems programming
 - Currently learning more about EC2, S3,docker, and building/shipping with ai
 
 # I’m currently working on ... 
